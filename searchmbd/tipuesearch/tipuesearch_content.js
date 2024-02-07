@@ -1,6 +1,17 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	Veggy Malta	", "text": "	Eat healthy | Live healthy	", "img": "../directory/assets/images/	veggy-malta-274x274.png	", "tags": "	vegetarian vegan	", "note": "		", "url": "	https://veggymalta.com/	"},
+{"title": "	Anurakti	", "text": "	A haven for plant-based gastronomy.	", "img": "../directory/assets/images/	anurakti-958x960.jpg	", "tags": "	vegetarian vegan	", "note": "		", "url": "	https://anurakti.com.mt/	"},
+{"title": "	Bingo Gaming	", "text": "	Bingo Game and Machines	", "img": "../directory/assets/images/	bingo-596x596.jpg	", "tags": "	bingo	", "note": "		", "url": "	https://bingogaming.com.mt/	"},
+{"title": "	Lottoland	", "text": "	Online Bingo at Lottoland Malta✏️Play now!	", "img": "../directory/assets/images/	lottoland-512x512.png	", "tags": "	bingo	", "note": "		", "url": "	https://www.lottoland.com/	"},
+{"title": "	Dragonara Casino	", "text": "	Visit the Palace and enjoy a variety of games to excite and inspire.	", "img": "../directory/assets/images/	dragonara-casino-596x596.jpg	", "tags": "	casino casinos	", "note": "		", "url": "	https://dragonara.mt/	"},
+{"title": "	Casino Malta	", "text": "	Casino Malta is the largest casino in Malta located in St Julian's and offers exciting entertainment experience 24/7.	", "img": "../directory/assets/images/	casino-malta-2048x2048.png	", "tags": "	casino casinos	", "note": "		", "url": "	https://casinomalta.com.mt/	"},
+{"title": "	National Lottery	", "text": "	Take a Chance!	", "img": "../directory/assets/images/	national-400x400.jpg	", "tags": "	lottery lotteries	", "note": "		", "url": "	https://lottery.mt/	"},
+{"title": "	Shopper Lottery	", "text": "	Shopper Lottery is Malta’s first community shopping lottery, giving consumers the opportunity to win tens of thousands of Euros in vouchers every year!	", "img": "../directory/assets/images/	shopper-lottery-1000x1000.jpg	", "tags": "	lottery lotteries	", "note": "		", "url": "	https://www.shopperlottery.com/	"},
+{"title": "	Responsible Gaming Foundation	", "text": "	Be a winner. Know your limits.	", "img": "../directory/assets/images/	responsible-gaming-foundation-596x596.jpg	", "tags": "	gambling gamble gambler	", "note": "		", "url": "	https://www.rgf.org.mt/	"},
+{"title": "	Malta Gaming Authority	", "text": "	The MGA is the single regulatory body responsible for the governance of gaming activities in Malta.	", "img": "../directory/assets/images/	malta-gaming-authority-709x709.jpg	", "tags": "	gambling gamble gambler	", "note": "		", "url": "	https://www.mga.org.mt/	"},
+
      {"title": "	Hansa	", "text": "	Hansa Wines and Spirits has the largest selection of wines and spirits on the island.	", "img": "../directory/assets/images/	hansa-596x596.jpg	", "tags": "	beverage beverages wines wine spirits spirit drink drinks	", "note": "		", "url": "	https://www.hansa.com.mt/	"},
 {"title": "	Malta Products	", "text": "	To promote & distribute Maltese products internationally through a user-friendly online environment.	", "img": "../directory/assets/images/	maltaproducts-2048x2048.jpg	", "tags": "	beverage beverages wines wine spirits spirit drink drinks	", "note": "		", "url": "	https://www.maltaproducts.com/	"},
 {"title": "	Taste	", "text": "	Taste Malta brings you all the best mouth-watering recipes from Malta & around the world.	", "img": "../directory/assets/images/	taste-292x292.png	", "tags": "	cook cooking recipe recipes	", "note": "		", "url": "	https://taste.com.mt/	"},
