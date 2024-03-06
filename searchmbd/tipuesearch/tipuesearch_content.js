@@ -1,6 +1,18 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	Portomaso Casino	", "text": "	See you on the poker tables!	", "img": "../directory/assets/images/	portomaso-casino-596x596.png	", "tags": "	poker	", "note": "		", "url": "	https://www.portomasocasino.com/	"},
+{"title": "	The Malta Poker Festival 	", "text": "	This massive poker festival brings together lots of different nationalities enjoying several poker tournaments.	", "img": "../directory/assets/images/	the-malta-poker-festival-259x194.png	", "tags": "	poker	", "note": "		", "url": "	https://www.themaltapokerfestival.com/	"},
+{"title": "	Meridianbet	", "text": "	Experience the ultimate online betting adventure at Meridianbet!	", "img": "../directory/assets/images/	meridianbet-400x400.png	", "tags": "	Sports Betting	", "note": "		", "url": "	https://meridianbet.com/	"},
+{"title": "	The Model Shop	", "text": "	the preferred toy shop for every child and family in Malta!	", "img": "../directory/assets/images/	the-model-shop-596x596.jpg	", "tags": "	Board & Card Games	", "note": "		", "url": "	https://modelshop.com.mt/	"},
+{"title": "	GamesPlus	", "text": "	Collectibles, Trading Card Games, Video Games, Consoles, Board Games in San Gwann & Tarxien	", "img": "../directory/assets/images/	gamesplus-596x596.png	", "tags": "	Board & Card Games	", "note": "		", "url": "	https://gamesplusmalta.com/	"},
+{"title": "	Institute of Digital Games	", "text": "	Games research and education (M.Sc. and Ph.D.)	", "img": "../directory/assets/images/	institute-of-digital-games-350x350.png	", "tags": "	games	", "note": "		", "url": "	https://www.game.edu.mt/	"},
+{"title": "	Gamebreaker	", "text": "	all gaming equipment, games & peripherals!	", "img": "../directory/assets/images/	logogamebreakert-800x800.png	", "tags": "	games	", "note": "		", "url": "	https://gamebreakermalta.com/	"},
+{"title": "	Edusell	", "text": "	Malta’s premier A-Z online store providing educational materials and specialized solutions to nurture young minds.	", "img": "../directory/assets/images/	edusell-400x400.jpg	", "tags": "	Puzzles & Brainteasers	", "note": "		", "url": "	https://www.edusell.com.mt/	"},
+{"title": "	The Barefoot Kids	", "text": "	is a concept store offering carefully curated toys, educational products and various decorative items.	", "img": "../directory/assets/images/	the-barefoot-kids-2048x2048.jpg	", "tags": "	Puzzles & Brainteasers	", "note": "		", "url": "	https://www.thebarefootkidsstore.com/	"},
+{"title": "	WarMonger Games	", "text": "	is a analogue games' specialist striving to be Malta’s leading online retailer !!	", "img": "../directory/assets/images/	warmonger-games-596x596.jpg	", "tags": "	Roleplaying Games	", "note": "		", "url": "	https://warmongergamesmalta.com/	"},
+{"title": "	Forbidden Power	", "text": "	is a TCG, Wargaming and Entertainment Hobby shop established in Malta.	", "img": "../directory/assets/images/	forbidden-power-400x400.png	", "tags": "	Roleplaying Games	", "note": "		", "url": "	https://www.forbiddenpower.com/	"},
+
      {"title": "	Veggy Malta	", "text": "	Eat healthy | Live healthy	", "img": "../directory/assets/images/	veggy-malta-274x274.png	", "tags": "	vegetarian vegan	", "note": "		", "url": "	https://veggymalta.com/	"},
 {"title": "	Anurakti	", "text": "	A haven for plant-based gastronomy.	", "img": "../directory/assets/images/	anurakti-958x960.jpg	", "tags": "	vegetarian vegan	", "note": "		", "url": "	https://anurakti.com.mt/	"},
 {"title": "	Bingo Gaming	", "text": "	Bingo Game and Machines	", "img": "../directory/assets/images/	bingo-596x596.jpg	", "tags": "	bingo	", "note": "		", "url": "	https://bingogaming.com.mt/	"},
