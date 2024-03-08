@@ -1,6 +1,15 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	Active Ageing and Community Care	", "text": "	The optimal well being and quality of life for older persons.	", "img": "../directory/assets/images/	active-ageing-and-community-care-250x250.jpg	", "tags": "	Geriatric & Aging Care	", "note": "		", "url": "	https://aacc.gov.mt/	"},
+{"title": "	Golden Care	", "text": "	your home away from home	", "img": "../directory/assets/images/	goldencare-600x600.png	", "tags": "	Geriatric & Aging Care	", "note": "		", "url": "	https://goldencare.com.mt/	"},
+{"title": "	Sexual Health	", "text": "	Information on all things related to sex, contraception, sexually transmitted infections and relationships.	", "img": "../directory/assets/images/	sexual-health-596x596.jpg	", "tags": "	Health Conditions & Concerns	", "note": "		", "url": "	https://sexualhealth.gov.mt/	"},
+{"title": "	MAPHM	", "text": "	Malta Association of Public Health Medicine	", "img": "../directory/assets/images/	maphm-900x900.png	", "tags": "	Health Conditions & Concerns	", "note": "		", "url": "	https://maphm.org/	"},
+{"title": "	Medicines Authority	", "text": "	Safeguarding public health through the regulation of medical products and pharmaceutical activities.	", "img": "../directory/assets/images/	medicines-authority-375x375.png	", "tags": "	Medicine	", "note": "		", "url": "	https://medicinesauthority.gov.mt/	"},
+{"title": "	The Med	", "text": "	Queen Mary University of London, Malta Campus Connecting with the community in Malta & Gozo	", "img": "../directory/assets/images/	the-med-375x375.jpg	", "tags": "	Medicine	", "note": "		", "url": "	https://studymedicinemalta.com/	"},
+{"title": "	Saint James Hospital	", "text": "	The leading name in private healthcare in Malta.	", "img": "../directory/assets/images/	saint-james-hospital-596x596.jpg	", "tags": "	Men's Health	", "note": "		", "url": "	https://stjameshospital.com/	"},
+{"title": "	Veduta Clinic	", "text": "	Maternity, Wellness and Medical Center	", "img": "../directory/assets/images/	vedutalogo2-800x800.png	", "tags": "	Men's Health	", "note": "		", "url": "	https://www.vedutaclinic.com/	"},
+
      {"title": "	Gamers Malta	", "text": "	We are all about gaming.	", "img": "../directory/assets/images/	gamersmalta-180x180.jpg	", "tags": "	Video Games, Consoles & Accessories	", "note": "		", "url": "	https://www.gamersmalta.net/	"},
 {"title": "	Exotique	", "text": "	Gaming, Smartphones & Smartwear, Computing, Appliances, Televisions & Audio, Music & Films, Beauty & Personal Care, Toys.	", "img": "../directory/assets/images/	exotique-752x752.png	", "tags": "	Video Games, Consoles & Accessories	", "note": "		", "url": "	https://exotique.com.mt/	"},
 {"title": "	Caritas	", "text": "	On the side of people in need.	", "img": "../directory/assets/images/	caritas-596x596.png	", "tags": "	Addictions	", "note": "		", "url": "	https://www.caritasmalta.org/	"},
