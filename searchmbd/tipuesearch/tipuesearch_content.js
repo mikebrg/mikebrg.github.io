@@ -1,6 +1,17 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	Mental Health Association	", "text": "	Representing care-givers of people suffering from mental health problems.	", "img": "../directory/assets/images/	mental-health-association-596x596.jpeg	", "tags": "	Mental Health	", "note": "		", "url": "	https://mhamalta.com/	"},
+{"title": "	bBrave	", "text": "	bBrave is the first anti-bullying NGO in Malta.	", "img": "../directory/assets/images/	bbrave-439x439.jpg	", "tags": "	Mental Health	", "note": "		", "url": "	https://bbrave.org.mt/	"},
+{"title": "	MaltaNutrition	", "text": "	Buy the finest nutrition at the lowest possible prices.	", "img": "../directory/assets/images/	maltanutrition-596x596.png	", "tags": "	Nutrition, Diets & Fitness	", "note": "		", "url": "	https://www.maltanutrition.com/	"},
+{"title": "	Nutrition.mt	", "text": "	We offer a wide range of products, including protein powders, collagen supplements, vitamins, and more.	", "img": "../directory/assets/images/	nutrition.mt-1623x1623.jpg	", "tags": "	Nutrition, Diets & Fitness	", "note": "		", "url": "	https://nutrition.mt/	"},
+{"title": "	Malta Health Students’ Association	", "text": "	MHSA is a senate recognised students' organisation at UM.	", "img": "../directory/assets/images/	malta-health-students-association-596x596.jpg	", "tags": "	Other Health	", "note": "		", "url": "	https://www.mhsafhs.org/	"},
+{"title": "	Malta Health Network	", "text": "	The voice of patients in Malta for more than a decade.	", "img": "../directory/assets/images/	malta-health-network-250x250.png	", "tags": "	Other Health	", "note": "		", "url": "	https://www.maltahealthnetwork.org/	"},
+{"title": "	Remedies	", "text": "	Your Wellbeing is our Priority.	", "img": "../directory/assets/images/	remedies-596x596.jpg	", "tags": "	Pharmacy	", "note": "		", "url": "	https://remedies.com.mt/	"},
+{"title": "	Pharmacy.mt	", "text": "	The unique and all-inclusive resource on Pharmacies information in Malta and Gozo	", "img": "../directory/assets/images/	pharmacy.mt-320x320.png	", "tags": "	Pharmacy	", "note": "		", "url": "	https://www.pharmacy.mt/	"},
+{"title": "	OHSA	", "text": "	Occupational Health & Safety Authority.	", "img": "../directory/assets/images/	occupational-health-safety-authority-300x300.png	", "tags": "	Public Health & Safety	", "note": "		", "url": "	https://www.ohsa.mt/	"},
+{"title": "	St. Bernard's	", "text": "	St Bernard’s Safety Training Centre is fully recognized by the MFHEA.	", "img": "../directory/assets/images/	st.-bernards-250x250.png	", "tags": "	Public Health & Safety	", "note": "		", "url": "	https://healthandsafety.com.mt/	"},
+
      {"title": "	Active Ageing and Community Care	", "text": "	The optimal well being and quality of life for older persons.	", "img": "../directory/assets/images/	active-ageing-and-community-care-250x250.jpg	", "tags": "	Geriatric & Aging Care	", "note": "		", "url": "	https://aacc.gov.mt/	"},
 {"title": "	Golden Care	", "text": "	your home away from home	", "img": "../directory/assets/images/	goldencare-600x600.png	", "tags": "	Geriatric & Aging Care	", "note": "		", "url": "	https://goldencare.com.mt/	"},
 {"title": "	Sexual Health	", "text": "	Information on all things related to sex, contraception, sexually transmitted infections and relationships.	", "img": "../directory/assets/images/	sexual-health-596x596.jpg	", "tags": "	Health Conditions & Concerns	", "note": "		", "url": "	https://sexualhealth.gov.mt/	"},
