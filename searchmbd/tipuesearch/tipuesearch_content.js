@@ -1,6 +1,15 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	Gigi's Antiques & Collectables	", "text": "	We buy collectables that we like for their style, design and history.	", "img": "../directory/assets/images/	gigis-antiques-collectables-596x596.png	", "tags": "	Antiques & Collectibles	", "note": "		", "url": "	https://gigiscollectables.com/	"},
+{"title": "	Robert Morrison Antiques	", "text": "	Selling Antiques in UK and Malta.	", "img": "../directory/assets/images/	robert-morrison-antiques-250x250.png	", "tags": "	Antiques & Collectibles	", "note": "		", "url": "	https://robertmorrisonantiques.com/	"},
+{"title": "	Għajn Tuffieħa Scout Campsite	", "text": "	A great atmosphere to Relax and Unwind.	", "img": "../directory/assets/images/	gajn-tuffiea-scout-campsite-596x596.jpg	", "tags": "	Camping, Scouting & Outdoors	", "note": "		", "url": "	https://campsite.mt/	"},
+{"title": "	The Scout Association of Malta	", "text": "	Rediscover adventure!	", "img": "../directory/assets/images/	the-scout-association-of-malta-960x960.jpg	", "tags": "	Camping, Scouting & Outdoors	", "note": "		", "url": "	https://scouts.mt/	"},
+{"title": "	Malta Crafts Foundation	", "text": "	Promoting the Crafts Sector in the Maltese Islands, thereby contributing to the revival, preservation, and long-term sustainability of local artisan skills.	", "img": "../directory/assets/images/	malta-crafts-foundation-596x588.jpg	", "tags": "	Crafts	", "note": "		", "url": "	https://maltacrafts.org/	"},
+{"title": "	M.T.S Arts & Crafts	", "text": "	Welcome to the World of Creativity.	", "img": "../directory/assets/images/	m.t.s-arts-crafts-498x498.png	", "tags": "	Crafts	", "note": "		", "url": "	https://www.mtsmalta.com/	"},
+{"title": "	Malta Scale Model Shop	", "text": "	Anything related to scale model kits, plastic, wood etc.	", "img": "../directory/assets/images/	malta-scale-model-shop-596x596.jpg	", "tags": "	Models	", "note": "		", "url": "	https://maltascalemodelshop.com/	"},
+{"title": "	Simon Models	", "text": "	Your Fun Store.	", "img": "../directory/assets/images/	simon-models-250x250.jpg	", "tags": "	Models	", "note": "		", "url": "	http://www.simonmodels.com/	"},
+
      {"title": "	Kamoy Engineering	", "text": "	offers welding and construction services in steel, stainless steel, aluminum and bronze.	", "img": "../directory/assets/images/	kamoy-logo-250x250.png	", "tags": "	Other Heavy Industry & Engineering	", "note": "		", "url": "	https://www.kamoyengineering.com/	"},
 {"title": "	Triton Engineering	", "text": "	Established in 2009 Triton Engineering Limited has steadily matured into a reliable enterprise delivering wide-ranging steel fabrication services.	", "img": "../directory/assets/images/	triton-eng-logo-600x600.png	", "tags": "	Other Heavy Industry & Engineering	", "note": "		", "url": "	https://tritonmalta.com/	"},
 {"title": "	Water Services Corporation	", "text": "	Responsible for the complete drinking and waste water cycle in the Maltese Islands.	", "img": "../directory/assets/images/	water-services-corporation-596x596.png	", "tags": "	Waste, Water & Environmental	", "note": "		", "url": "	https://www.wsc.com.mt/	"},
