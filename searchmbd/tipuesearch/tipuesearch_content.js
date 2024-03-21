@@ -1,6 +1,13 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	Sip and Paint	", "text": "	You can come alone with family, friends, colleagues.	", "img": "../directory/assets/images/	sip-and-paint-596x596.png	", "tags": "	Other Hobbies & Leisure	", "note": "		", "url": "	https://www.sipandpaintmalta.com/	"},
+{"title": "	Event Solutions	", "text": "	leading incoming Travel Agency / Destination Management Company in MALTA	", "img": "../directory/assets/images/	event-solutions-1357x1357.jpg	", "tags": "	Other Hobbies & Leisure	", "note": "		", "url": "	https://eventsolutionsmalta.com/	"},
+{"title": "	Gino Galea	", "text": "	a qualified Master photographer who is synonymous with wedding photography.	", "img": "../directory/assets/images/	gino-galea-271x271.jpg	", "tags": "	Photography	", "note": "		", "url": "	https://www.ginogalea.com/	"},
+{"title": "	Malta Photographic Society	", "text": "	founded in 1961 with the intention of fostering friendship through photography.	", "img": "../directory/assets/images/	malta-photographic-society-800x800.png	", "tags": "	Photography	", "note": "		", "url": "	https://www.mpsmalta.com/	"},
+{"title": "	BDI	", "text": "	durable, stylish and affordable furniture solutions.	", "img": "../directory/assets/images/	homes-by-bdi-300x300.jpg	", "tags": "	Furniture	", "note": "		", "url": "	https://www.homesbybdi.com/	"},
+{"title": "	Karrari 	", "text": "	Online Shop. Free Delivery in Malta.	", "img": "../directory/assets/images/	karrari-300x300.png	", "tags": "	Furniture	", "note": "		", "url": "	https://karrari.shop/	"},
+
      {"title": "	Gigi's Antiques & Collectables	", "text": "	We buy collectables that we like for their style, design and history.	", "img": "../directory/assets/images/	gigis-antiques-collectables-596x596.png	", "tags": "	Antiques & Collectibles	", "note": "		", "url": "	https://gigiscollectables.com/	"},
 {"title": "	Robert Morrison Antiques	", "text": "	Selling Antiques in UK and Malta.	", "img": "../directory/assets/images/	robert-morrison-antiques-250x250.png	", "tags": "	Antiques & Collectibles	", "note": "		", "url": "	https://robertmorrisonantiques.com/	"},
 {"title": "	Għajn Tuffieħa Scout Campsite	", "text": "	A great atmosphere to Relax and Unwind.	", "img": "../directory/assets/images/	gajn-tuffiea-scout-campsite-596x596.jpg	", "tags": "	Camping, Scouting & Outdoors	", "note": "		", "url": "	https://campsite.mt/	"},
