@@ -1,6 +1,15 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	RMJ Horse Rescue	", "text": "	Horse Rescue and Rehabilitation.	", "img": "../directory/assets/images/	rmj-horse-rescue-596x593.jpg	", "tags": "	Horses	", "note": "		", "url": "	https://www.rmjshorserescue.org/	"},
+{"title": "	Golden Bay Horse Riding	", "text": "	Over 17 horses, 6 instructors and 50 years of experience.	", "img": "../directory/assets/images/	goldenbay-horseriding-300x300.png	", "tags": "	Horses	", "note": "		", "url": "	https://goldenbayhorseriding.com/	"},
+{"title": "	Animal Care Malta	", "text": "	Dedicated to the welfare of animals since 2001.	", "img": "../directory/assets/images/	animal-care-malta-473x473.jpg	", "tags": "	Other Pets & Animals	", "note": "		", "url": "	https://www.animalcaremalta.com/	"},
+{"title": "	CLAWS	", "text": "	Cat Lovers Adoptions, Welfare & Support 	", "img": "../directory/assets/images/	claws-400x400.png	", "tags": "	Other Pets & Animals	", "note": "		", "url": "	https://clawsmalta.org/	"},
+{"title": "	Borg Cardona	", "text": "	are leading experts in pets and farm animals in general.	", "img": "../directory/assets/images/	borg-cardona-596x596.jpg	", "tags": "	Pet Food & Supplies	", "note": "		", "url": "	https://borgcardona.com.mt/	"},
+{"title": "	Pet Supplies Malta	", "text": "	We provide a wide variety of dog food, cat food, pet accessories, and more.	", "img": "../directory/assets/images/	pet-supplies-malta-960x960.jpg	", "tags": "	Pet Food & Supplies	", "note": "		", "url": "	https://www.petsuppliesmalta.com/	"},
+{"title": "	Petshopmalta	", "text": "	Malta's Largest online pet store.	", "img": "../directory/assets/images/	petshopmalta-400x400.png	", "tags": "	Pets	", "note": "		", "url": "	https://www.petshopmalta.com/	"},
+{"title": "	Pet House	", "text": "	Pet Shop & Grooming Salon	", "img": "../directory/assets/images/	pet-house-495x495.png	", "tags": "	Pets	", "note": "		", "url": "	https://pethouse.com.mt/	"},
+
      {"title": "	Times of Malta	", "text": "	Malta's leading news service since 1935.	", "img": "../directory/assets/images/	times-of-malta-596x596.png	", "tags": "	Newspapers	", "note": "		", "url": "	https://timesofmalta.com/	"},
 {"title": "	MaltaToday	", "text": "	MaltaToday.com.mt is an independent, English-language Maltese newspaper. 	", "img": "../directory/assets/images/	maltatoday-1080x1080.jpg	", "tags": "	Newspapers	", "note": "		", "url": "	https://www.maltatoday.com.mt/	"},
 {"title": "	Content House	", "text": "	Your Media Partner.	", "img": "../directory/assets/images/	content-house-300x300.png	", "tags": "	Other News & Media Publishers	", "note": "		", "url": "	https://contenthouse.com.mt/	"},
