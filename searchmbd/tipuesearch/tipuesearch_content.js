@@ -1,6 +1,17 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	Astronomical Society of Malta	", "text": "	has the aim of promoting education and interest in the science of astronomy.	", "img": "../directory/assets/images/	astronomical-society-of-malta-548x660.jpg	", "tags": "	Astronomy	", "note": "		", "url": "	https://www.maltastro.org/	"},
+{"title": "	The Night Sky of Malta	", "text": "	Joseph's Science Page	", "img": "../directory/assets/images/	america-nebula-2500x1676.jpg	", "tags": "	Astronomy	", "note": "		", "url": "	http://www.nightskymalta.info/	"},
+{"title": "	Biology Malta	", "text": "	Biology Education for Ordinary, Intermediate and Advanced level.	", "img": "../directory/assets/images/	biology-malta-logo-200x35-bw-300x300.png	", "tags": "	Biology	", "note": "		", "url": "	https://biologymalta.com/	"},
+{"title": "	EcoMarine	", "text": "	Tourism can be Sustainable, and it can respect the ecosystem.	", "img": "../directory/assets/images/	ecomarine-273x273.jpg	", "tags": "	Biology	", "note": "		", "url": "	https://www.ecomarinemalta.com.mt/	"},
+{"title": "	Malta Business School	", "text": "	Applying Knowledge for Success.	", "img": "../directory/assets/images/	malta-business-school-596x596.jpg	", "tags": "	Business Training	", "note": "		", "url": "	https://mbs.edu.mt/	"},
+{"title": "	ICE	", "text": "	A leading tech academy in the heart of Europe renowned for its unique Study Experience.	", "img": "../directory/assets/images/	ice-2048x2048.png	", "tags": "	Business Training	", "note": "		", "url": "	https://icemalta.com/	"},
+{"title": "	Chemic	", "text": "	Connecting Industry with Chemistry.	", "img": "../directory/assets/images/	chemic-596x596.jpg	", "tags": "	Chemistry	", "note": "		", "url": "	https://www.chemicmalta.com/	"},
+{"title": "	Department of Chemistry	", "text": "	Chemistry is concerned with key challenges in today's society.	", "img": "../directory/assets/images/	um-483x480.jpg	", "tags": "	Chemistry	", "note": "		", "url": "	https://www.um.edu.mt/science/chemistry/	"},
+{"title": "	Malta Chamber of Geologists	", "text": "	regulating and protecting the interests of the Geological profession in Malta.	", "img": "../directory/assets/images/	malta-chamber-of-geologists-596x596.png	", "tags": "	Earth Sciences	", "note": "		", "url": "	https://www.mgeol.org/	"},
+{"title": "	Institute of Earth Systems	", "text": "	set up with the primary aim of carrying out teaching and research in environmental and rural sciences, with a focus on Earth's complex and dynamic systems.	", "img": "../directory/assets/images/	um-483x480.jpg	", "tags": "	Earth Sciences	", "note": "		", "url": "	https://www.um.edu.mt/ies/	"},
+
      {"title": "	Midsea Books	", "text": "	Leading Maltese publishers on history, art, culture and language.	", "img": "../directory/assets/images/	midsea-books-340x340.jpg	", "tags": "	Dictionaries & Encyclopedias	", "note": "		", "url": "	https://www.midseabooks.com/	"},
 {"title": "	Malta Online Bookshop	", "text": "	Specialised, virtual bookshop promoting Maltese Publications, Rare melitensia. 	", "img": "../directory/assets/images/	malta-online-bookshop-768x768.jpg	", "tags": "	Dictionaries & Encyclopedias	", "note": "		", "url": "	https://maltaonlinebookshop.com/	"},
 {"title": "	Malta By Bus	", "text": "	A guide to exploring Malta and Gozo using regular bus services.	", "img": "../directory/assets/images/	logo.scale-401-596x596.png	", "tags": "	Maps	", "note": "		", "url": "	http://www.maltabybus.com/	"},
