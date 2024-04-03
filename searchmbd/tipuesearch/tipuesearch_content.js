@@ -1,6 +1,14 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	Malta Union of Teachers	", "text": "	Malta's trade union for educators since 1919.	", "img": "../directory/assets/images/	mut-400x400.jpg	", "tags": "	Education	", "note": "		", "url": "	https://mut.org.mt/	"},
+{"title": "	Migrant Learners' Unit	", "text": "	Sustainment, Inclusion and Success.	", "img": "../directory/assets/images/	migrant-learners-unit-250x250.jpg	", "tags": "	Education	", "note": "		", "url": "	https://migrantlearnersunit.gov.mt/	"},
+{"title": "	AIS Environment	", "text": "	We are the longest-standing independent environmental consultancy firm operating in Malta.	", "img": "../directory/assets/images/	ais-environment-400x400.jpg	", "tags": "	Environmental Science	", "note": "		", "url": "	https://aisenvironment.mt/	"},
+{"title": "	GBS	", "text": "	Changing lives through education.	", "img": "../directory/assets/images/	gbs-596x596.jpg	", "tags": "	Grants Scholarships & Financial Aid	", "note": "		", "url": "	https://gbs.edu.mt/	"},
+{"title": "	Student Grants & Stipends	", "text": "	Students' Maintenance Grants are provided by the Government of Malta for students in higher education.	", "img": "../directory/assets/images/	edu-icon-833x833.png	", "tags": "	Grants Scholarships & Financial Aid	", "note": "		", "url": "	https://studentgrants.gov.mt/	"},
+{"title": "	The Malta Experience	", "text": "	Discover Malta's premier audio-visual heritage experience!	", "img": "../directory/assets/images/	the-malta-experience-500x500.jpg	", "tags": "	History	", "note": "		", "url": "	https://themaltaexperience.com/	"},
+{"title": "	Malta at War	", "text": "	Visit the Underground Air-raid Shelters	", "img": "../directory/assets/images/	malta-at-war-350x350.jpg	", "tags": "	History	", "note": "		", "url": "	https://www.maltaatwarmuseum.com/	"},
+
      {"title": "	Astronomical Society of Malta	", "text": "	has the aim of promoting education and interest in the science of astronomy.	", "img": "../directory/assets/images/	astronomical-society-of-malta-548x660.jpg	", "tags": "	Astronomy	", "note": "		", "url": "	https://www.maltastro.org/	"},
 {"title": "	The Night Sky of Malta	", "text": "	Joseph's Science Page	", "img": "../directory/assets/images/	america-nebula-2500x1676.jpg	", "tags": "	Astronomy	", "note": "		", "url": "	http://www.nightskymalta.info/	"},
 {"title": "	Biology Malta	", "text": "	Biology Education for Ordinary, Intermediate and Advanced level.	", "img": "../directory/assets/images/	biology-malta-logo-200x35-bw-300x300.png	", "tags": "	Biology	", "note": "		", "url": "	https://biologymalta.com/	"},
