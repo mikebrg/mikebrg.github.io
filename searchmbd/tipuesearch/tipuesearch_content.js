@@ -1,6 +1,14 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	SDC Library	", "text": "	to access information relating to Christianity and the Bible.	", "img": "../directory/assets/images/	sdc-library-596x293.png	", "tags": "	Libraries & Museums	", "note": "		", "url": "	https://sdclibrary.org/	"},
+{"title": "	Inizjamed	", "text": "	seeks to renew cultural expression in Malta.	", "img": "../directory/assets/images/	inizjamed-596x596.png	", "tags": "	Literature	", "note": "		", "url": "	https://www.inizjamed.org/	"},
+{"title": "	Merlin Publishers	", "text": "	Publishing great books in Malta by the best contemporary authors.	", "img": "../directory/assets/images/	merlin-publishers-600x600.jpg	", "tags": "	Literature	", "note": "		", "url": "	https://merlinpublishers.com/	"},
+{"title": "	Pure Mathematics 	", "text": "	Mathematics Made Simple.	", "img": "../directory/assets/images/	logo.scale-403-596x596.png	", "tags": "	Mathematics	", "note": "		", "url": "	https://puremathematics.mt/	"},
+{"title": "	Malta Mathematical Society	", "text": "	Organisation dedicated to providing a home for those interested in mathematics in Malta.	", "img": "../directory/assets/images/	malta-mathematical-society-1600x1600.jpg	", "tags": "	Mathematics	", "note": "		", "url": "	https://mms.org.mt/	"},
+{"title": "	Euro Guidance	", "text": "	European network of national resource and information centres for guidance.	", "img": "../directory/assets/images/	euro-guidance-596x916.jpeg	", "tags": "	Other Science & Education	", "note": "		", "url": "	https://euroguidance.gov.mt/	"},
+{"title": "	MCAST	", "text": "	Malta College of Arts, Science and Technology.	", "img": "../directory/assets/images/	mcast-390x390.jpg	", "tags": "	Other Science & Education	", "note": "		", "url": "	https://mcast.edu.mt/	"},
+
      {"title": "	Malta Union of Teachers	", "text": "	Malta's trade union for educators since 1919.	", "img": "../directory/assets/images/	mut-400x400.jpg	", "tags": "	Education	", "note": "		", "url": "	https://mut.org.mt/	"},
 {"title": "	Migrant Learners' Unit	", "text": "	Sustainment, Inclusion and Success.	", "img": "../directory/assets/images/	migrant-learners-unit-250x250.jpg	", "tags": "	Education	", "note": "		", "url": "	https://migrantlearnersunit.gov.mt/	"},
 {"title": "	AIS Environment	", "text": "	We are the longest-standing independent environmental consultancy firm operating in Malta.	", "img": "../directory/assets/images/	ais-environment-400x400.jpg	", "tags": "	Environmental Science	", "note": "		", "url": "	https://aisenvironment.mt/	"},
