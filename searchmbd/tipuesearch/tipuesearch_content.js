@@ -1,6 +1,11 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	The School of Practical Philosophy	", "text": "	The school proposes testing the validity of traditional wisdom in daily life.	", "img": "../directory/assets/images/	the-school-of-practical-philosophy-479x483.png	", "tags": "	Philosophy	", "note": "		", "url": "	https://practicalphilosophymalta.eu/	"},
+{"title": "	Philosophy Sharing Foundation	", "text": "	to bring together philosophy enthusiasts; to inspire, strengthen and promote philosophical activity.	", "img": "../directory/assets/images/	philosophy-sharing-foundation-250x250.jpg	", "tags": "	Philosophy	", "note": "		", "url": "	https://www.philosophysharing.org/	"},
+{"title": "	Physics Private Tuition	", "text": "	A Level Physics.	", "img": "../directory/assets/images/	physics-private-tuition-596x596.jpg	", "tags": "	Physics	", "note": "		", "url": "	https://www.facebook.com/physicsprivatetuition	"},
+{"title": "	Quantumalta	", "text": "	We seek to understand how the world works at the small scale.	", "img": "../directory/assets/images/	quantumalta-400x400.jpg	", "tags": "	Physics	", "note": "		", "url": "	https://www.quantum.edu.mt/	"},
+
      {"title": "	SDC Library	", "text": "	to access information relating to Christianity and the Bible.	", "img": "../directory/assets/images/	sdc-library-596x293.png	", "tags": "	Libraries & Museums	", "note": "		", "url": "	https://sdclibrary.org/	"},
 {"title": "	Inizjamed	", "text": "	seeks to renew cultural expression in Malta.	", "img": "../directory/assets/images/	inizjamed-596x596.png	", "tags": "	Literature	", "note": "		", "url": "	https://www.inizjamed.org/	"},
 {"title": "	Merlin Publishers	", "text": "	Publishing great books in Malta by the best contemporary authors.	", "img": "../directory/assets/images/	merlin-publishers-600x600.jpg	", "tags": "	Literature	", "note": "		", "url": "	https://merlinpublishers.com/	"},
