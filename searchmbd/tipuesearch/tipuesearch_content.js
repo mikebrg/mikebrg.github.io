@@ -1,6 +1,16 @@
 
 var tipuesearch = {"pages": [
 
+     {"title": "	Malta Boxing Association	", "text": "	Grow, Sustain and Excel.	", "img": "../directory/assets/images/	malta-boxing-association-300x300.jpg	", "tags": "	Boxing	", "note": "		", "url": "	https://www.maltaboxingassociation.org/	"},
+{"title": "	House of Fitness	", "text": "	Everything you need to improve your physique can be found in House of Fitness.	", "img": "../directory/assets/images/	house-of-fitness-400x400.jpg	", "tags": "	Boxing	", "note": "		", "url": "	https://houseoffitnessmalta.eu/	"},
+{"title": "	Malta Rock Climbing Club	", "text": "	Malta’s longest established climbing club.	", "img": "../directory/assets/images/	malta-rock-climbing-club-400x400.jpg	", "tags": "	Climbing	", "note": "		", "url": "	https://www.climbmalta.com/	"},
+{"title": "	MC Adventure	", "text": "	Go Play Outside!	", "img": "../directory/assets/images/	cadventure-2048x2030.png	", "tags": "	Climbing	", "note": "		", "url": "	https://mcadventure.com.mt/	"},
+{"title": "	Rota	", "text": "	Advocating for safer and accessible active mobility in Malta.	", "img": "../directory/assets/images/	rota-596x596.png	", "tags": "	Cycling & Biking	", "note": "		", "url": "	https://www.rota.mt/	"},
+{"title": "	The Cyclist	", "text": "	Expertise is derived from passion.	", "img": "../directory/assets/images/	the-cyclist-267x267.jpg	", "tags": "	Cycling & Biking	", "note": "		", "url": "	https://thecyclistmalta.com/	"},
+{"title": "	Epic Extreme Sports	", "text": "	Malta's No.1 Skate Shop.	", "img": "../directory/assets/images/	epic-extreme-sports-900x900.jpg	", "tags": "	Extreme Sports	", "note": "		", "url": "	https://www.epicextremesports.com/	"},
+{"title": "	GamingMalta	", "text": "	Home Of Gaming Excellence.	", "img": "../directory/assets/images/	gamingmalta-285x285.png	", "tags": "	Fantasy Sports	", "note": "		", "url": "	https://www.gamingmalta.org/	"},
+{"title": "	FFM	", "text": "	Fantasy Football Malta	", "img": "../directory/assets/images/	ffm-457x457.png	", "tags": "	Fantasy Sports	", "note": "		", "url": "	https://www.facebook.com/FantasyFootballMT/	"},
+
      {"title": "	Studenti Ħarsien Soċjali	", "text": "	official student organisation which represents social policy and social work students.	", "img": "../directory/assets/images/	studenti-arsien-sojali-596x596.jpg	", "tags": "	Social Sciences Studenti Harsien Socjali	", "note": "		", "url": "	https://www.shs.org.mt/	"},
 {"title": "	Social Studies Option	", "text": "	A page to help Year 8 students in their subject choice	", "img": "../directory/assets/images/	326231486-896686825091746-5405407125136612727-n-600x600.jpg	", "tags": "	Social Sciences	", "note": "		", "url": "	https://www.facebook.com/SocialStudiesOptionMalta/	"},
 {"title": "	University of Malta	", "text": "	Serving students, scholarship and society, sustainably.	", "img": "../directory/assets/images/	university-of-malta-596x596.jpg	", "tags": "	Universities & Colleges	", "note": "		", "url": "	https://www.um.edu.mt/	"},
