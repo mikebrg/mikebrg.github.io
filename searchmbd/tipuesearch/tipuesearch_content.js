@@ -1,6 +1,25 @@
 
 var tipuesearch = {"pages": [
-
+     
+     {"title": "	Kingfisher Sport Fishing Association	", "text": "	Catch & Release.	", "img": "../directory/assets/images/	kingfisher-sport-fishing-association-596x596.jpg	", "tags": "	Fishing	", "note": "		", "url": "	https://www.ksfamalta.com/	"},
+     {"title": "	Aquatica	", "text": "	Our sport fishing charter service is the result of a life-long passion.	", "img": "../directory/assets/images/	fishingmalta-1741x1741.png	", "tags": "	Fishing	", "note": "		", "url": "	http://fishingmalta.com/	"},
+     {"title": "	Royal Malta Golf Club	", "text": "	Expect A Royal Welcome	", "img": "../directory/assets/images/	royal-malta-golf-club-596x596.png	", "tags": "	Golf	", "note": "		", "url": "	https://royalmaltagolfclub.com/	"},
+     {"title": "	Malta Golf Association	", "text": "	Making Golf Accessible	", "img": "../directory/assets/images/	malta-golf-association-453x485.jpg	", "tags": "	Golf	", "note": "		", "url": "	http://www.maltagolf.org/	"},
+     {"title": "	Fieldsports	", "text": "	Shooting Sports and the Outdoor Life.	", "img": "../directory/assets/images/	fieldsports-350x350.png	", "tags": "	Hunting & Shooting	", "note": "		", "url": "	https://fieldsportsmalta.com/	"},
+     {"title": "	FKNK	", "text": "	The Federation for Hunting & Conservation	", "img": "../directory/assets/images/	fknk-1583x1583.png	", "tags": "	Hunting & Shooting Federazzjoni Kaccaturi Nassaba Konservazzjonisti	", "note": "		", "url": "	https://www.huntinginmalta.org.mt/	"},
+     {"title": "	Jiushin Kan	", "text": "	The Complete Art of Jujutsu (Jiu-Jitsu).	", "img": "../directory/assets/images/	jiushin-kan-596x596.jpg	", "tags": "	Martial Arts	", "note": "		", "url": "	https://www.jiushinkanmalta.org/	"},
+     {"title": "	Dragon Martial Arts	", "text": "	TAEKWONDO and HAPKIMUDO gym in Hamrun.	", "img": "../directory/assets/images/	dragon-martial-arts-950x950.jpg	", "tags": "	Martial Arts	", "note": "		", "url": "	https://dragonmartialarts.mt/	"},
+     {"title": "	SportMalta	", "text": "	The Maltese entity for Sport.	", "img": "../directory/assets/images/	sportmalta-596x596.jpg	", "tags": "	Other Sports	", "note": "		", "url": "	https://sportmalta.mt/	"},
+     {"title": "	Malta Sport For All	", "text": "	Federation for Parasports, Elite Sports and Amatour Sports	", "img": "../directory/assets/images/	malta-sport-for-all-500x500.png	", "tags": "	Other Sports	", "note": "		", "url": "	https://www.maltasportforall.org/	"},
+     {"title": "	Malta Rugby Football Union	", "text": "	is the sole recognized governing body for Rugby Union in Malta.	", "img": "../directory/assets/images/	malta-rugby-football-union-596x596.jpg	", "tags": "	Rugby	", "note": "		", "url": "	https://rugbymalta.com/	"},
+     {"title": "	Malta Rugby League	", "text": "	Governing body for Rugby League.	", "img": "../directory/assets/images/	311863505-641186930735624-315330818855582793-n-2048x2048.jpg	", "tags": "	Rugby	", "note": "		", "url": "	https://www.maltarugbyleague.com/	"},
+     {"title": "	Active Spirit	", "text": "	Join our studio classes or get fit at home!	", "img": "../directory/assets/images/	active-spirit-596x596.jpg	", "tags": "	Running	", "note": "		", "url": "	https://activespirit.com.mt/	"},
+     {"title": "	Running Tours Malta	", "text": "	is your private running tour that will make sure you get your exercise even during your holiday.	", "img": "../directory/assets/images/	running-tours-malta-260x260.png	", "tags": "	Running	", "note": "		", "url": "	https://www.runningtoursmalta.com/	"},
+     {"title": "	Malta Football Association	", "text": "	the governing body of Maltese football.	", "img": "../directory/assets/images/	mfa-596x596.jpg	", "tags": "	Soccer	", "note": "		", "url": "	https://mfa.com.mt/	"},
+     {"title": "	maltafootball.com	", "text": "	Comprehensive guide to football in Malta and Gozo.	", "img": "../directory/assets/images/	maltafootballcom-200x200.jpg	", "tags": "	Soccer	", "note": "		", "url": "	https://www.maltafootball.com/	"},
+     {"title": "	Malta Tennis Federation	", "text": "	established to promote the interests of the game of tennis in Malta.	", "img": "../directory/assets/images/	malta-tennis-federation-596x596.png	", "tags": "	Tennis	", "note": "		", "url": "	https://maltatennisfederation.com/	"},
+     {"title": "	Asciak Tennis Academy	", "text": "	Unleash your 'A' game. The largest tennis academy in Malta.	", "img": "../directory/assets/images/	asciak-tennis-academy-596x596.jpg	", "tags": "	Tennis	", "note": "		", "url": "	https://www.asciaktennismalta.com/	"},
+     
      {"title": "	Malta Boxing Association	", "text": "	Grow, Sustain and Excel.	", "img": "../directory/assets/images/	malta-boxing-association-300x300.jpg	", "tags": "	Boxing	", "note": "		", "url": "	https://www.maltaboxingassociation.org/	"},
 {"title": "	House of Fitness	", "text": "	Everything you need to improve your physique can be found in House of Fitness.	", "img": "../directory/assets/images/	house-of-fitness-400x400.jpg	", "tags": "	Boxing	", "note": "		", "url": "	https://houseoffitnessmalta.eu/	"},
 {"title": "	Malta Rock Climbing Club	", "text": "	Malta’s longest established climbing club.	", "img": "../directory/assets/images/	malta-rock-climbing-club-400x400.jpg	", "tags": "	Climbing	", "note": "		", "url": "	https://www.climbmalta.com/	"},
