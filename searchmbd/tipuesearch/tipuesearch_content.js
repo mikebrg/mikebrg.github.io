@@ -1,6 +1,13 @@
 
 var tipuesearch = {"pages": [
      
+     {"title": "	Malta Volleyball Association	", "text": "	to promote, regulate and develop, in Malta, the game of volleyball.	", "img": "../directory/assets/images/	malta-volleyball-association-422x422.jpg	", "tags": "	Volleyball	", "note": "		", "url": "	https://www.maltavolleyball.org/	"},
+     {"title": "	Swieqi Phoenix Volleyball Club	", "text": "	Malta National Volleyball Champions	", "img": "../directory/assets/images/	swieqi-phoenix-volleyball-club-700x700.jpg	", "tags": "	Volleyball	", "note": "		", "url": "	https://www.facebook.com/SwieqiPhoenixVolleyballClub/	"},
+     {"title": "	Sun & Fun Watersports	", "text": "	offers a variety of fun water sports.	", "img": "../directory/assets/images/	sun-596x596.png	", "tags": "	Water Sports	", "note": "		", "url": "	https://sunfunmalta.com/	"},
+     {"title": "	Aquamarine Watersports	", "text": "	The home of water sports.	", "img": "../directory/assets/images/	aquamarine-700x700.jpg	", "tags": "	Water Sports	", "note": "		", "url": "	https://www.aquamarine.mt/	"},
+     {"title": "	Maltese Olympic Committee	", "text": "	Our commitment is to encourage, promote and fund the participation of Maltese athletes in International games.	", "img": "../directory/assets/images/	maltese-olympic-committee-300x300.jpg	", "tags": "	Winter Sports	", "note": "		", "url": "	https://nocmalta.org/	"},
+     {"title": "	Decathlon	", "text": "	Ready to play?	", "img": "../directory/assets/images/	decathlon-709x709.jpg	", "tags": "	Winter Sports	", "note": "		", "url": "	https://www.decathlon.mt/	"},
+     
      {"title": "	Kingfisher Sport Fishing Association	", "text": "	Catch & Release.	", "img": "../directory/assets/images/	kingfisher-sport-fishing-association-596x596.jpg	", "tags": "	Fishing	", "note": "		", "url": "	https://www.ksfamalta.com/	"},
      {"title": "	Aquatica	", "text": "	Our sport fishing charter service is the result of a life-long passion.	", "img": "../directory/assets/images/	fishingmalta-1741x1741.png	", "tags": "	Fishing	", "note": "		", "url": "	http://fishingmalta.com/	"},
      {"title": "	Royal Malta Golf Club	", "text": "	Expect A Royal Welcome	", "img": "../directory/assets/images/	royal-malta-golf-club-596x596.png	", "tags": "	Golf	", "note": "		", "url": "	https://royalmaltagolfclub.com/	"},
