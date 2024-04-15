@@ -1,6 +1,15 @@
 
 var tipuesearch = {"pages": [
      
+     {"title": "	Volkswagen	", "text": "	We make fuel-efficient, high-performance, superior-engineered cars that are not only incredibly safe, but are fun to drive, too.	", "img": "../directory/assets/images/	volkswagen-596x596.png	", "tags": "	Makes & Models	", "note": "		", "url": "	https://www.volkswagen.com.mt/	"},
+{"title": "	Toyota	", "text": "	Michael Debono Ltd, the official retailer of Toyota in Malta since 1960.	", "img": "../directory/assets/images/	toyota-800x800.png	", "tags": "	Makes & Models	", "note": "		", "url": "	https://toyota.com.mt/	"},
+{"title": "	Cycle World	", "text": "	Your ONE-STOP Shop for ALL your Motorcycle Needs!	", "img": "../directory/assets/images/	cycle-world-302x302.jpg	", "tags": "	Motorcycles	", "note": "		", "url": "	https://www.cycleworldmalta.com/	"},
+{"title": "	Gordon's Moto Centre	", "text": "	Motorcycle, Scooter and ATV Dealer	", "img": "../directory/assets/images/	gordons-moto-centre-859x859.jpg	", "tags": "	Motorcycles	", "note": "		", "url": "	https://www.gordonsmoto.com/	"},
+{"title": "	Malta Motorsport Federation	", "text": "	the national sport organization representing Motorsport and Motoring enthusiasts.	", "img": "../directory/assets/images/	malta-motorsport-federation-400x400.jpg	", "tags": "	Motorsports	", "note": "		", "url": "	https://maltamotorsport.org/	"},
+{"title": "	Motorsport Malta	", "text": "	bringing you local Motorsport news in once place!	", "img": "../directory/assets/images/	motorsport-malta-250x250.jpg	", "tags": "	Motorsports	", "note": "		", "url": "	https://motorsportmalta.com/	"},
+{"title": "	Transport Malta	", "text": "	is the Authority for land, sea and air transport in Malta.	", "img": "../directory/assets/images/	transport-malta-320x320.png	", "tags": "	Other Vehicles	", "note": "		", "url": "	https://www.transport.gov.mt/	"},
+{"title": "	Malta Car Trader	", "text": "	we can import any vehicle of your choice.	", "img": "../directory/assets/images/	malta-car-trader-1079x1079.png	", "tags": "	Other Vehicles	", "note": "		", "url": "	https://maltacartrader.com/	"},
+
      {"title": "	AX Hotels	", "text": "	a leading operator of Hotels in Malta.	", "img": "../directory/assets/images/	ax-hotels-596x596.jpg	", "tags": "	Accommodation & Hotels	", "note": "		", "url": "	https://axhotelsmalta.com/	"},
 {"title": "	ST Hotels	", "text": "	ST Hotels, owns and operates 5 hotels all located in the Gzira / Sliema Area.	", "img": "../directory/assets/images/	st-hotels-301x301.png	", "tags": "	Accommodation & Hotels	", "note": "		", "url": "	https://sthotelsmalta.com/	"},
 {"title": "	KM Malta Airlines	", "text": "	The Airline of the Maltese Islands.	", "img": "../directory/assets/images/	km-malta-airlines-596x596.jpg	", "tags": "	Air Travel	", "note": "		", "url": "	https://www.kmmaltairlines.com/	"},
