@@ -1,6 +1,10 @@
 
 var tipuesearch = {"pages": [
      
+     {"title": "	Animated Figurines	", "text": "	Since our first day in business, Animated Figurines Malta has been offering our customers the best selection of products.	", "img": "../directory/assets/images/	animated-figurines-789x789.jpg	", "tags": "	Animation & Comics	", "note": "		", "url": "	https://www.animatedfigurinesmalta.com/	"},
+{"title": "	LAB7	", "text": "	Welcome to the house for collectors, as your collection deserves the best!	", "img": "../directory/assets/images/	lab7-720x720.jpg	", "tags": "	Animation & Comics	", "note": "		", "url": "	https://www.lab7.com.mt/	"},
+{"title": "	National Book Council	", "text": "	 It offers several important services, whilst striving to encourage reading and to promote the book as a medium of communication in all its formats.	", "img": "../directory/assets/images/	national-book-council-591x591.png	", "tags": "	Books & Literature	", "note": "		", "url": "	https://ktieb.org.mt/	"},
+
      {"title": "	Volkswagen	", "text": "	We make fuel-efficient, high-performance, superior-engineered cars that are not only incredibly safe, but are fun to drive, too.	", "img": "../directory/assets/images/	volkswagen-596x596.png	", "tags": "	Makes & Models	", "note": "		", "url": "	https://www.volkswagen.com.mt/	"},
 {"title": "	Toyota	", "text": "	Michael Debono Ltd, the official retailer of Toyota in Malta since 1960.	", "img": "../directory/assets/images/	toyota-800x800.png	", "tags": "	Makes & Models	", "note": "		", "url": "	https://toyota.com.mt/	"},
 {"title": "	Cycle World	", "text": "	Your ONE-STOP Shop for ALL your Motorcycle Needs!	", "img": "../directory/assets/images/	cycle-world-302x302.jpg	", "tags": "	Motorcycles	", "note": "		", "url": "	https://www.cycleworldmalta.com/	"},
